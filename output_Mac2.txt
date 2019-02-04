@@ -1,0 +1,56 @@
+          symbol              geneid  n_counts  n_cells  highly_variable  \
+index                                                                      
+Gm37381  Gm37381  ENSMUSG00000102343       2.0        2            False   
+Mrpl15    Mrpl15  ENSMUSG00000033845   53387.0    25928            False   
+Lypla1    Lypla1  ENSMUSG00000025903   21777.0    16613            False   
+Gm37988  Gm37988  ENSMUSG00000104217     113.0      113            False   
+Tcea1      Tcea1  ENSMUSG00000033813   46587.0    26312            False   
+
+            means  dispersions  dispersions_norm  
+index                                             
+Gm37381  0.000033    -0.236093         -1.218836  
+Mrpl15   0.615854     0.031943         -0.486235  
+Lypla1   0.347612     0.091242         -0.246451  
+Gm37988  0.002065     0.066708         -0.309708  
+Tcea1    0.616597     0.107837         -0.265286  
+(17879, 8)
+          symbol              geneid  n_counts  n_cells
+index                                                  
+Gm37381  Gm37381  ENSMUSG00000102343       2.0        2
+Mrpl15    Mrpl15  ENSMUSG00000033845   53387.0    25928
+Lypla1    Lypla1  ENSMUSG00000025903   21777.0    16613
+Gm37988  Gm37988  ENSMUSG00000104217     113.0      113
+Tcea1      Tcea1  ENSMUSG00000033813   46587.0    26312
+(18247, 4)
+          symbol              geneid  n_counts  n_cells  highly_variable  \
+index                                                                      
+Gm37381  Gm37381  ENSMUSG00000102343       2.0        2            False   
+Mrpl15    Mrpl15  ENSMUSG00000033845   53387.0    25928            False   
+Lypla1    Lypla1  ENSMUSG00000025903   21777.0    16613            False   
+Gm37988  Gm37988  ENSMUSG00000104217     113.0      113            False   
+Tcea1      Tcea1  ENSMUSG00000033813   46587.0    26312            False   
+
+            means  dispersions  dispersions_norm  
+index                                             
+Gm37381  0.000033    -0.236093         -1.218836  
+Mrpl15   0.615854     0.031943         -0.486235  
+Lypla1   0.347612     0.091242         -0.246451  
+Gm37988  0.002065     0.066708         -0.309708  
+Tcea1    0.616597     0.107837         -0.265286  
+(17879, 8)
+          symbol              geneid  n_counts  n_cells  highly_variable  \
+index                                                                      
+Gm37381  Gm37381  ENSMUSG00000102343       2.0        2            False   
+Mrpl15    Mrpl15  ENSMUSG00000033845   53387.0    25928            False   
+Lypla1    Lypla1  ENSMUSG00000025903   21777.0    16613            False   
+Gm37988  Gm37988  ENSMUSG00000104217     113.0      113            False   
+Tcea1      Tcea1  ENSMUSG00000033813   46587.0    26312            False   
+
+            means  dispersions  dispersions_norm  
+index                                             
+Gm37381  0.000033    -0.236093         -1.218836  
+Mrpl15   0.615854     0.031943         -0.486235  
+Lypla1   0.347612     0.091242         -0.246451  
+Gm37988  0.002065     0.066708         -0.309708  
+Tcea1    0.616597     0.107837         -0.265286  
+(17879, 8)
